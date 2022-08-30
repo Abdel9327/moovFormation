@@ -229,9 +229,11 @@ align-items: center;
 
 }
 .menu{
-width: 50px;
+  transform: scale(2);
+
+  top:40px;
 position: absolute;
-top:35px;
+top:40px;
 right: 30px;
 }
 .nav-links{
