@@ -86,7 +86,6 @@ top: 70%;
 left: 50%;
 transform: translate(-50%, -50%);
 }
-
 .search-box{
 width: fit-content;
 height: fit-content;
@@ -153,9 +152,8 @@ align-items: center;
 
 }
 .menu{
-  transform: scale(2);
-
-  top:40px;
+transform: scale(2);
+top:40px;
 position: absolute;
 top:40px;
 right: 30px;
@@ -212,117 +210,3 @@ margin: 0 25px;
    min-width: 250px;
 }
 
-#book{
-  background-color:rgba(249, 162, 60, 0.8);
-  border-radius: 10px;
-  padding:30px;
-  min-width: 250px;
-}
-
-@media (max-width:1270px) { 
-  #computer{
-    background-color:rgba(249, 162, 60, 0.8);
-     margin-left:50px;
-     border-radius: 10px;
-     padding:30px; 
-     min-width: 250px;
-  }
-}
-
-@media (max-width:1070px) { 
-  #computer{
-    background-color:rgba(249, 162, 60, 0.8);
-     margin-left:10px;
-     border-radius: 10px;
-     padding:30px; 
-     min-width: 100px;
-  }
-  #book{
-    background-color:rgba(249, 162, 60, 0.8);
-    border-radius: 10px;
-    padding:30px;
-    min-width: 150px;
-  }
-  .formation-tab{
-    margin-top: 25px;
-    position: initial;
-    margin-top: 150px;
-    margin-left: 55%;
-    }
-    .container{
-      padding-top:0px;
-      padding-bottom: 50px;
-      }
-      
-}
-
-
-@media (max-width:645px) { 
-  #computer{
-    background-color:rgba(249, 162, 60, 0.8);
-     border-radius: 10px;
-     padding:30px; 
-     min-width: 300px;
-     width:400px;
-
-  }
-  #book{
-    background-color:rgba(249, 162, 60, 0.8);
-    border-radius: 10px;
-    padding:30px;
-    min-width: 300px;
-    width:400px;
-    margin-left: 10px;
-    margin-bottom: 20px;
-
-  }
-  .formation-tab{
-    margin-top: 25px;
-    position: initial;
-    margin-top: 260px;
-    margin-left: 42%;
-    }
-    .container{
-      padding-top:0px;
-      padding-bottom: 50px;
-      }
-      .container3{
-        height: 300px;
-        }
-}
-
-@media (max-width:790px) { 
-.centered {
-  position: absolute;
-  top:30%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color:white;
-  font-size:40px;
-  line-height: 50px;
-  font-family: 'Arial', sans-serif;
-  min-width: 400px;
-  }
-  .container{
-    padding-top:0px;
-    padding-bottom: 50px;
-    }
-}
-
-@media (max-width:600px) { 
-  .centered {
-    position: absolute;
-    top:23%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    color:white;
-    font-size:35px;
-    line-height: 50px;
-    font-family: 'Arial', sans-serif;
-    min-width: 400px;
-    }
-    .container{
-      padding-top:0px;
-      padding-bottom: 50px;
-      }
-  }
