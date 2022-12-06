@@ -1,13 +1,7 @@
-.bilan-competence{
-  margin-left:20%;
-  margin-right:20%;
-}
-
 @media (max-width:1130px) { 
   .bilan-competence{margin-left:7%;
   margin-right:7%;}
 }
-
 
 body{
   font-family: 'Roboto', sans-serif;
@@ -63,40 +57,7 @@ width: auto;
 margin: 0.5em;
 padding: 0.5em;
 margin-top: 10px;
-
 }
-
-.prize-Moov{
-text-align: center;
-
-width: auto;
-margin: 0.5em;
-padding: 0.5em;
-
-}
-
-.btn-inscr{
-margin-top: 20px;
-background-color:#F9A23C;
-color:white;
-border-color:transparent;
-border-radius: 5px;
-padding:10px
-}
-
-
-.information-nous{
-text-align: center;
-margin: 0.5em;
-padding: 0.5em;
-
-}
-.container5{
-text-align: center;
- margin-left:20%; 
-}
-
-
 
 .container3{
 text-align: center;
@@ -115,43 +76,6 @@ color:white;
 font-size:50px;
 line-height: 50px;
 font-family: 'Arial', sans-serif;
-}
-
-.centered2{
-  
-  position: absolute;
-  top:180px;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  color:white;
-  font-size:50px;
-  font-family: 'Arial', sans-serif;
-  }
-
-
-.bvn{
-margin-top: 30px;
-text-align: center;
-font-size:30px;
-width: 100%;
-padding-top: 18px;
-padding-bottom: 18px;
-background-color: #F9A23C;
-color: white
-}
-
-.bvn-nous{
-margin-top: 30px;
-text-align: center;
-font-size:30px;
-width: 100%;
-
-}
-
-
-.bvn-txt{
-text-align: center; 
-margin-top:20px;
 }
 
 
