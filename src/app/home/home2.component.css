@@ -21,7 +21,7 @@
       background-color:rgba(249, 162, 60, 0.8);
       border-radius: 10px;
       padding:30px;
-      min-width: 150px;
+      min-width: 100px;
     }
     .formation-tab{
       margin-top: 25px;
@@ -111,6 +111,5 @@
         background-color:rgba(249, 162, 60, 0.8);
         border-radius: 10px;
         padding:30px;
-        min-width: 250px;
       }
       
